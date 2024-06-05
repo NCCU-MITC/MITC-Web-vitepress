@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.VUEqq9Hy.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"annouce/2024pyday.md","filePath":"annouce/2024pyday.md"}'),n={name:"annouce/2024pyday.md"};function o(c,r,s,p,d,_){return t(),a("div")}const f=e(n,[["render",o]]);export{m as __pageData,f as default};
