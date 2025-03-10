@@ -13,11 +13,11 @@ export default defineConfig({
     ["meta", { property: "og:description", content: "這是政大數理資訊社官網，提供高品質的內容" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:url", content: "https://nccu-mitc.github.io/MITC-Web-vitepress/" }],
-    ["meta", { property: "og:image", content: "https://th.bing.com/th/id/OIP.menWHXGiSrMQ4ZP2Z_PL0wHaHa?w=80&h=80&c=12&rs=1&qlt=90&o=6&dpr=1.3&pid=23.1" }],
+    ["meta", { property: "og:image", content: "https://media.discordapp.net/attachments/1339172704699285587/1348280209601990747/images.jpg?ex=67cf8c0b&is=67ce3a8b&hm=de518491ebaed759d96111d0ee2a094934f252b599d22045f8fbaaa77551fcfe&=&format=webp&width=285&height=276" }],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
     ["meta", { name: "twitter:title", content: "政大數理資訊社" }],
     ["meta", { name: "twitter:description", content: "這是政大數理資訊社官網" }],
-    ["meta", { name: "twitter:image", content: "https://th.bing.com/th/id/OIP.menWHXGiSrMQ4ZP2Z_PL0wHaHa?w=80&h=80&c=12&rs=1&qlt=90&o=6&dpr=1.3&pid=23.1" }],
+    ["meta", { name: "twitter:image", content: "https://media.discordapp.net/attachments/1339172704699285587/1348280209601990747/images.jpg?ex=67cf8c0b&is=67ce3a8b&hm=de518491ebaed759d96111d0ee2a094934f252b599d22045f8fbaaa77551fcfe&=&format=webp&width=285&height=276" }],
   ],
   description: "A Good Site",
 
