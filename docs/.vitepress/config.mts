@@ -9,7 +9,7 @@ export default defineConfig({
     ['meta', { name: 'keywords', content: '數理資訊社, 政大數理資訊社, 政治大學, 政治大學數理資訊社, MITC, NCCU-MITC, Pyday' }],
     ['meta', { name: 'description', content: '政大數理資訊社官網' }],
     ['meta', { name: 'google-site-verification', content:'xwL8a9NV2cxXJFvIs7jO-r717PzvMiHIjCJAl6VB7cg'} ],
-    ["meta", { property: "og:title", content: "我的網站" }],
+    ["meta", { property: "og:title", content: "政大數理資訊社" }],
     ["meta", { property: "og:description", content: "這是政大數理資訊社官網，提供高品質的內容" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:url", content: "https://nccu-mitc.github.io/MITC-Web-vitepress/" }],
