@@ -11,7 +11,7 @@ import Calc from '.vitepress/components/Calc.vue'
 </script>
 
 <Banner />
-
+***
 # About
 
 歡迎來到 MITc NCCU 數理資訊社！
