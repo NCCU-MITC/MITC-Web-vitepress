@@ -6,11 +6,14 @@
     "generate:sitemap": "node scripts/generate-sitemap.js"
   },
   "dependencies": {
+    "axios": "^1.8.4",
     "busuanzi.pure.js": "^1.0.3",
     "glob": "^10.4.1",
     "gray-matter": "^4.0.3",
     "sitemap": "^8.0.0",
-    "sitemap-generator": "^8.5.1",
-    "vitepress": "^1.1.4"
+    "sitemap-generator": "^8.5.1"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
   }
 }
